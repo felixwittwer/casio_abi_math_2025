@@ -1,0 +1,80 @@
+ABI 2017
+├── Analysis
+│    ├── Tangente + Normale
+│    ├── -||- v. außerhalb
+│    ├── Bogenlänge
+│    ├── Rotationsvolumen
+│    ├── Kurvendiskussion
+│    │    Eingabe
+│    │    ├── Nullstellen
+│    │    ├── Globale Extrema
+│    │    ├── Symmetrie
+│    │    ├── Zeichnen
+│    │    └── Zurück
+│    ├── d(Punkt, Graph)
+│    ├── Neigungswinkel
+│    ├── y=mx+n aus 2 Pkt
+│    └── Zurück
+│
+├── Geometrie
+│    ├── Grundlagen
+│    │    ├── zwei Vektoren
+│    │    ├── Ebenengleichung
+│    │    │    ├── 3 Punkte
+│    │    │    ├── Koordinatenform
+│    │    │    ├── Parameterform
+│    │    │    ├── Hessesche N-Form
+│    │    │    └── Zurück
+│    │    ├── Dreieck
+│    │    ├── Viereck|Pyramide
+│    │    ├── Geraden
+│    │    └── Zurück
+│    ├── Berechnungen
+│    │    ├── Lgebeziehungen
+│    │    │    ├── Punkt - Punkt
+│    │    │    ├── Punkt - Gerade
+│    │    │    ├── Punkt - Ebene
+│    │    │    ├── Gerade - Gerade
+│    │    │    ├── Gerade - Ebene
+│    │    │    ├── Ebene - Ebene
+│    │    │    └── Zurück
+│    │    ├── Flugzeugaufgabe
+│    │    │    ├── 4 Punkte, Zeit t
+│    │    │    ├── 2 Geraden, Gesch
+│    │    │    ├── 2 Pkt., t , 1 Ger.
+│    │    │    └── Zurück
+│    │    ├── Spiegelung
+│    │    └── Zurück
+│    └── Zurück
+│
+├── Stochastik
+│    ├── Kombinatorik
+│    ├── Vierfeldertafel
+│    ├── Binomialvert.
+│    │    ├── Verteilung
+│    │    ├── n ermitteln
+│    │    ├── k ermitteln
+│    │    ├── B(n.p.k)->N(q,o)
+│    │    ├── Stichprobengrößen
+│    │    └── Zurück
+│    ├── Normalverteilung
+│    │    ├── Verteilung
+│    │    ├── q ermitteln
+│    │    ├── o ermitteln
+│    │    ├── Grenzen ermitteln
+│    │    └── Zurück
+│    ├── Signifikanztest
+│    │    ├── Rechtsseitig
+│    │    ├── Linksseitig
+│    │    ├── Zweiseitig
+│    │    ├── Zurück
+│    └── Zurück
+│
+├── Hinweise
+│    ├── Eingabe
+│    ├── Ausgabe
+│    ├── Grafik
+│    ├── Sonstiges
+│    └── Zurück
+├── Informationen
+└── Beenden
