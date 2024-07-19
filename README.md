@@ -23,7 +23,7 @@ origianl version by Charlotte Bäcker
 ### fx-9860 GII
 1. [Download](https://edu.casio.com/dl/) and install the Casio FA-124 Programm
 
-Due to the complexety of the program I won't explain every detail in this README. For further information unse the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
+Due to the complexety of the program I won't explain every detail in this README. For further information use the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
 
 ### fx-9860 GIII
 1. Connect Casio fx-9860 GIII to your Computer with the help of the USB cable.
