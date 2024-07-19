@@ -1,4 +1,3 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Generic badge](https://img.shields.io/badge/newest_version-2017.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 
 # casio_abi_math_2025
