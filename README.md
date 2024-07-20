@@ -18,8 +18,9 @@ the programm is compatibale with Casio calculators of the fx-9860 GII and GIII S
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
 ### 2024.1.0
-currently in development
-brining UX changes and new menu structure
+currently in development <br>
+brining UX changes and new menu structure <br>
+currently all changes and improvments are done by Felix Wittwer
 
 ### 2017.1.0 
 origianl version by Charlotte Bäcker
@@ -54,11 +55,11 @@ Due to the complexety of the program I won't explain every detail in this README
 Installation is also possible via the 3-Pin cable from one calculator to another. Transfer is also possible between different [compatible](#compatibility) calculator generations.
 
 ## How to use
-To use the Progam you have to execute the ABI 2017.g1m file by:
+To use the Progam you have to execute the ABI 2025.g1m file by:
 
 **On the Calculator:** <br>
 1. go into the Program menu [B]
-2. execute the ABI 2017 file [EXE]
+2. execute the ABI 2025 file [EXE]
 
 All the other files are used by the program automaticaly and you are getting redirected during execution. So don't rename them!
 
