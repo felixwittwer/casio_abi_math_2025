@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/newest_version-2017.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
-![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)
-![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)
+[![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
+[![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
 # casio_abi_math_2025
 a collection of programs designed to assist in any field of mathematics needed to pass the German A-levels in Saxony
