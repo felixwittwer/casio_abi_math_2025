@@ -15,6 +15,10 @@ the programm is compatibale with Casio calculators of the fx-9860 GII and GIII S
 #### naming convention 
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
+### 2024.1.0
+currently in development
+brining UX changes and new menu structure
+
 ### 2017.1.0 
 origianl version by Charlotte Bäcker
 
