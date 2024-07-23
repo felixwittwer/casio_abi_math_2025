@@ -1,0 +1,33 @@
+ABI 2025
+├── Analysis
+│    ├── Zurück
+│    ├── Kurvendiskussion
+│    │    Eingabe: Funktion? Intervall?
+│    │    ├── Zurück
+│    │    ├── Nullstellen
+│    │    ├── Globale Extrema
+│    │    ├── Symmetrie
+│    │    ├── Zeichnen
+│    │    └── Intervall ändern
+│    ├── Tangente Normale
+│    │    ├── Zurück
+│    │    ├── auf dem Graphen
+│    │    └── von außerhalb
+│    ├── y=mx+n aus 2 Pkt
+│    ├── Neigungswinkel
+│    ├── Bogenlänge
+│    ├── d(Punkt, Graph)
+│    └── Rotationsvolumen
+│
+├── Geometrie
+│
+├── Stochastik
+│
+├── Bedienung
+│    ├── Eingabe
+│    ├── Ausgabe
+│    ├── Grafik
+│    ├── Sonstiges
+│    └── Zurück
+├── Informationen
+└── Beenden
