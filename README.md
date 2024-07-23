@@ -3,6 +3,11 @@
 # casio_abi_math_2025
 a collection of programs designed to assist in any field of mathematics needed to pass the German A-levels in Saxony
 
+## LICENSE
+This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
 <div id=compatibility>
   
 ## Compatibility
