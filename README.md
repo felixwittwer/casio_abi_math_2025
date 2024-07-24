@@ -68,5 +68,7 @@ To use the Progam you have to execute the ABI 2025.g1m file by:
 
 All the other files are used by the program automaticaly and you are getting redirected during execution. So don't rename them!
 
+For a detailed List/Map of the included functionality see [menu_structure](/menu_structure.txt)
+
 ## Diclaimer
 The links contained in this file allow you to leave this file and jump to other websites. I, Felix Wittwer, am not responsible for the content, links, changes or updates of these external websites. Use at your own risk!
