@@ -30,6 +30,16 @@ ABI 2025
 │    │    ├── Gerade - Ebene
 │    │    └── Ebene -Ebene
 │    ├── Vektoren (ABIG3 25)
+│    │    ├── Zurück
+│    │    ├── Vektor aus Pnkte
+│    │    ├── Punkt aus Vektor
+│    │    ├── Vektorlänge
+│    │    ├── Lineare Abhängigkeit
+│    │    │    ├── Zurück
+│    │    │    ├── x-y-Ebene
+│    │    │    └── x-y-z-Ebene
+│    │    ├── Einheitsvektor
+│    │    └── Dreiecksfläche
 │    ├── Geraden (ABIG4 25)
 │    ├── Ebenen (ABIG5 25)
 │    ├── Spiegeln
