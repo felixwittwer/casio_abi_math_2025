@@ -1,5 +1,5 @@
 ABI 2025
-├── Analysis
+├── Analysis (ABIA1 25)
 │    ├── Zurück
 │    ├── Kurvendiskussion
 │    │    Eingabe: Funktion? Intervall?
@@ -19,9 +19,20 @@ ABI 2025
 │    ├── d(Punkt, Graph)
 │    └── Rotationsvolumen
 │
-├── Geometrie
+├── Geometrie (ABIG1 25)
+│    ├── Zurück
+│    ├── Lagebeziehungen (ABIG2 25)
+│    ├── Vektoren (ABIG3 25)
+│    ├── Geraden (ABIG4 25)
+│    ├── Ebenen (ABIG5 25)
+│    ├── Spiegeln
+│    └── Sonstiges
+│         ├── Zurück
+│         ├── Dreieck
+│         ├── Viereck|Pyramide
+│         └── Flugzeugaufgabe
 │
-├── Stochastik
+├── Stochastik (ABIS1 25)
 │
 ├── Bedienung
 │    ├── Eingabe
