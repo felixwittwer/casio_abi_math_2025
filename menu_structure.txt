@@ -49,6 +49,8 @@ ABI 2025
 │    │    ├── geg. Parameter
 │    │    └── geg. Komponente
 │    ├── Ebenen (ABIG5 25)
+│    │    ├── Zurück
+│    │    └── Ebenengleichung
 │    ├── Spiegeln
 │    └── Sonstiges
 │         ├── Zurück
