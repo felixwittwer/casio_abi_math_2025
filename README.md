@@ -23,12 +23,17 @@ the programm is compatibale with Casio calculators of the fx-9860 GII and GIII S
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
 ### 2024.1.0
-currently in development <br>
-brining UX changes and new menu structure <br>
-currently all changes and improvments are done by Felix Wittwer
+- spliting the Program into 8 different files for better readability and to reduce confusion with variable names
+- rename a lot of varibales
+- brining UX changes (mostly putting "Zurück" at the top of every menu)
+- new more logical menu structure
+- order menu numbers and letters in Code to get rid of confusion (main menus 1 to 9, submenus A to Z)
+- add Variablenmanager (save and restore the values you allocated to some Varibales)
+- add new "Vektor" menu
+- add new functionality inside "Geraden" menu ("Gerade aus Pnkte", "Pnkte aus Gerade")
 
 ### 2017.1.0 
-origianl version by Charlotte Bäcker
+- origianl version by Charlotte Bäcker
 
 
 ## Installation
