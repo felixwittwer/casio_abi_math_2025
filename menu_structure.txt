@@ -61,7 +61,25 @@ ABI 2025
 ├── Stochastik (ABIS1 25)
 │    ├── Zurück
 │    ├── Kombinatorik
-│    └── Vierfeldertafel
+│    ├── Vierfeldertafel
+│    ├── Binomialvert.
+│    │     ├── Zurück
+│    │     ├── Verteilung
+│    │     ├── n ermitteln
+│    │     ├── k ermitteln
+│    │     ├── B(n,p,k)->N(y,o)
+│    │     └── Stichprobengröße
+│    ├── Normalverteilung
+│    │     ├── Zurück
+│    │     ├── Verteilung
+│    │     ├── y ermitteln
+│    │     ├── o ermitteln
+│    │     └── Grenze ermitteln
+│    └── Signifikanztest
+│          ├── Zurück
+│          ├── Rechtsseitig
+│          ├── Linksseitig
+│          └── Zweiseitig
 │
 ├── Bedienung
 │    ├── Eingabe
