@@ -59,7 +59,9 @@ ABI 2025
 │         └── Flugzeugaufgabe
 │
 ├── Stochastik (ABIS1 25)
-│    └── Zurück
+│    ├── Zurück
+│    ├── Kombinatorik
+│    └── Vierfeldertafel
 │
 ├── Bedienung
 │    ├── Eingabe
