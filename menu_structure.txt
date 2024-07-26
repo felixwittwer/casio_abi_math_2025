@@ -82,10 +82,14 @@ ABI 2025
 │          └── Zweiseitig
 │
 ├── Bedienung
+│    ├── Zurück
 │    ├── Eingabe
 │    ├── Ausgabe
 │    ├── Grafik
-│    ├── Sonstiges
-│    └── Zurück
+│    └── WICHTIG
 ├── Informationen
+├── Variablenmanager
+│    ├── Zurück
+│    ├── Speichern
+│    └── Wiederherstellen
 └── Beenden
