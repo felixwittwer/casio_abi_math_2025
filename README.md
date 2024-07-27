@@ -80,17 +80,18 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
   
 ## Progam Files
 
-| Filename   | Filesize on Calculator|
-| ---------- | --------------------- |
-| ABI 2025   | 2016 Bytes            |
-| ABIA1 25   | 3024 bytes            |
-| ABIA2 25   | 128  Bytes            |
-| ABIG1 25   | 4088 Bytes            |
-| ABIG2 25   | 3344 Bytes            |
-| ABIG3 25   | 3232 Bytes            |
-| ABIG4 25   | 1012 Bytes            |
-| ABIG5 25   | 1716 Bytes            |
-| ABIS1 25   | 4740 Bytes            |
+| Filename   | Filesize on Calculator | Lines of code |
+| ---------- | ---------------------- | ------------- |
+| ABI 2025   | 2016 Bytes             | 57  Lines     |
+| ABIA1 25   | 3024 bytes             | 212 Lines     |
+| ABIA2 25   | 128  Bytes             | 7   Lines     |
+| ABIG1 25   | 4088 Bytes             | 325 Lines     |
+| ABIG2 25   | 3344 Bytes             | 381 Lines     |
+| ABIG3 25   | 3232 Bytes             | 113 Lines     |
+| ABIG4 25   | 1012 Bytes             | 51  Lines     |
+| ABIG5 25   | 1716 Bytes             | 121 Lines     |
+| ABIS1 25   | 4740 Bytes             | 338 Lines     |
+| **Total**  | **23.300 Bytes**       | **1605 Lines**|
 
 </div>
 
