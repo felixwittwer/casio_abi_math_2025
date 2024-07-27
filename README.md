@@ -13,9 +13,9 @@ This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, vis
 <div id=compatibility>
 
 ## THANKS
-to Charlotte Bäcker for the original projekt and permission to reuse and furthe rdevelop it
+to **Charlotte Bäcker** for the original projekt and permission to reuse and further develop it
 
-to Felix Wittwer for giving the orginial ABI 2017 program a new life
+to **Felix Wittwer** for giving the orginial ABI 2017 program a new life
   
 ## Compatibility
 the programm is compatibale with Casio calculators of the fx-9860 GII and GIII Series
