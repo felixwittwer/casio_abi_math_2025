@@ -41,7 +41,7 @@ year . main version (for major changes) . sub version (for small changes of bug 
 ### fx-9860 GII
 1. [Download](https://edu.casio.com/dl/) and install the Casio FA-124 Programm
 
-Due to the complexety of the program I won't explain every detail in this README. For further information unse the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
+Due to the complexety of the program I won't explain every detail in this README. For further information use the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
 
 ### fx-9860 GIII
 1. Connect Casio fx-9860 GIII to your Computer with the help of the USB cable.
@@ -52,7 +52,7 @@ Due to the complexety of the program I won't explain every detail in this README
 
 **On your machine:** <br>
 
-3. Open the file manager of your operating system and copy all .g1m files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
+3. Open the file manager of your operating system and copy all [.g1m](#program_files) files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
 
 4. Eject device (usually D:). More info on calculator display.
 
@@ -75,6 +75,24 @@ To use the Progam you have to execute the ABI 2025.g1m file by:
 All the other files are used by the program automaticaly and you are getting redirected during execution. So don't rename them!
 
 For a detailed List/Map of the included functionality see [menu_structure](/menu_structure.txt)
+
+<div id=program_files> 
+  
+## Progam Files
+
+| Filename   | Filesize on Calculator|
+| ---------- | --------------------- |
+| ABI 2025   | 2016 Bytes            |
+| ABIA1 25   | 3024 bytes            |
+| ABIA2 25   | 128  Bytes            |
+| ABIG1 25   | 4088 Bytes            |
+| ABIG2 25   | 3344 Bytes            |
+| ABIG3 25   | 3232 Bytes            |
+| ABIG4 25   | 1012 Bytes            |
+| ABIG5 25   | 1716 Bytes            |
+| ABIS1 25   | 4740 Bytes            |
+
+</div>
 
 ## Diclaimer
 The links contained in this file allow you to leave this file and jump to other websites. I, Felix Wittwer, am not responsible for the content, links, changes or updates of these external websites. Use at your own risk!
