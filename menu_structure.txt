@@ -5,9 +5,10 @@ ABI 2025
 │    │    Eingabe: Funktion? Intervall?
 │    │    ├── Zurück
 │    │    ├── Nullstellen
-│    │    ├── Globale Extrema
+│    │    ├── Globale Extrema[
+│    │    ├── Sattelpunkte (ABIA1 25)(ABIA2 25)
 │    │    ├── Symmetrie
-│    │    ├── Zeichnen
+│    │    ├── Zeichnen       [
 │    │    └── Intervall ändern
 │    ├── Tangente Normale
 │    │    ├── Zurück
