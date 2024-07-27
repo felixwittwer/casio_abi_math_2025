@@ -11,6 +11,10 @@ This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, vis
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 <div id=compatibility>
+
+## THANKS
+to Charlotte Bäcker for the original projekt and permission to reuse and furthe rdevelop it
+to Felix Wittwer for giving the orginial ABI 2017 program a new life
   
 ## Compatibility
 the programm is compatibale with Casio calculators of the fx-9860 GII and GIII Series
@@ -27,11 +31,13 @@ year . main version (for major changes) . sub version (for small changes of bug 
 - rename a lot of varibales
 - brining UX changes (mostly putting "Zurück" at the top of every menu)
 - new more logical menu structure
-- order menu numbers and letters in Code to get rid of confusion (main menus 1 to 9, submenus A to Z)
+- order menu numbers and letters in Code to get rid of confusion (main menu's 1 to 9, submenus A to Z)
 - add Variablenmanager (save and restore the values you allocated to some Varibales)
-- add new "Vektor" menu
-- add new functionality inside "Geraden" menu ("Gerade aus Pnkte", "Pnkte aus Gerade")
-- add new functionality inside "Kurvendiskussion" menu ("Sattelpunkte")
+- add new "Vektor" menu with "Vektor aus Pnkte", "Pnkte aus Vektor", "Vektorlänge", "Lineare Abhängig", "Einheitsvektor" and "Dreiecksfläche"
+- add new "Geraden" menu with "Gerade aus Pnkte", "Pnkte aus Gerade" (old menu functionality regarding Geraden was also moved to this menu)
+- add new functionality inside "Kurvendiskussion" menu ("Sattelpunkte", "Intervall ändern")
+
+all changes made by Felix Wittwer
 
 ### 2017.1.0 
 - origianl version by Charlotte Bäcker
