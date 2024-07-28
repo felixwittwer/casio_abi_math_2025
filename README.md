@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2017.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2024.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
@@ -16,6 +16,9 @@ This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, vis
 to **Charlotte Bäcker** for the original projekt and permission to reuse and further develop it
 
 to **Felix Wittwer** for giving the orginial ABI 2017 program a new life
+
+## CONTACT
+Felix Wittwer (felix.wittwer.mail@gmail.com)
   
 ## Compatibility
 the programm is compatibale with Casio calculators of the fx-9860 GII and GIII Series
