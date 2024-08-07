@@ -26,6 +26,9 @@ the programm is compatibale with Casio calculators of the fx-9860 GII and GIII S
 #### naming convention 
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
+### 2024.1.1
+- fix issue in "Vierfeldertafel"
+
 ### 2024.1.0
 - spliting the Program into 9 different files for better readability and to reduce confusion with variable names
 - rename a lot of varibales
@@ -96,8 +99,8 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
 | ABIG4 25   | 1012 Bytes             | 51  Lines     |
 | ABIG5 25   | 1716 Bytes             | 121 Lines     |
-| ABIS1 25   | 4740 Bytes             | 338 Lines     |
-| **Total**  | **23.340 Bytes**       | **1606 Lines**|
+| ABIS1 25   | 4744 Bytes             | 339 Lines     |
+| **Total**  | **23.344 Bytes**       | **1607 Lines**|
 
 </div>
 
