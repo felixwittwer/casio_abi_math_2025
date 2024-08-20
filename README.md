@@ -32,6 +32,8 @@ year . main version (for major changes) . sub version (for small changes of bug 
 
 ### 2024.1.1
 - fix issue #12 in "Vierfeldertafel"
+- fix issue #15 ("Binomial" menu is referencing "Ebenen" menu)
+- fix issue #16 ("Statistik" menu incorectly labled as "Ebenen")
 
 ### 2024.1.0
 - spliting the Program into 9 different files for better readability and to reduce confusion with variable names
