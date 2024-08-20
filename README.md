@@ -31,7 +31,7 @@ the programm is compatibale with Casio calculators of the fx-9860 GII and GIII S
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
 ### 2024.1.1
-- fix issue in "Vierfeldertafel"
+- fix issue #12 in "Vierfeldertafel"
 
 ### 2024.1.0
 - spliting the Program into 9 different files for better readability and to reduce confusion with variable names
