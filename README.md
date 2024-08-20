@@ -51,6 +51,7 @@ all changes made by Felix Wittwer
 
 
 ## Installation
+### via USB
 ### fx-9860 GII
 1. [Download](https://edu.casio.com/dl/) and install the Casio FA-124 Programm
 
@@ -77,6 +78,8 @@ Due to the complexety of the program I won't explain every detail in this README
 
 **Note**
 Installation is also possible via the 3-Pin cable from one calculator to another. Transfer is also possible between different [compatible](#compatibility) calculator generations.
+
+### via 3-Pin
 
 ## How to use
 To use the Progam you have to execute the ABI 2025.g1m file by:
