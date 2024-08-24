@@ -113,8 +113,8 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
 | ABIG4 25   | 1012 Bytes             | 51  Lines     |
 | ABIG5 25   | 1716 Bytes             | 121 Lines     |
-| ABIS1 25   | 5736 Bytes             | 370 Lines     |
-| **Total**  | **24.496 Bytes**       | **1648 Lines**|
+| ABIS1 25   | 5740 Bytes             | 371 Lines     |
+| **Total**  | **24.500 Bytes**       | **1649 Lines**|
 
 </div>
 
