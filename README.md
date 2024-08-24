@@ -57,16 +57,16 @@ all changes made by Felix Wittwer
 
 Due to the complexety of the program I won't explain every detail in this README. For further information use the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
 
-### fx-9860 GIII
-1. Connect Casio fx-9860 GIII to your Computer with the help of the USB cable.
+### fx-9860 GIII and fx-CG50
+1. Connect Casio fx-9860 GIII of fx-CG50 to your Computer with the help of the USB cable.
 
 **On the Calculator:** <br>
 
-2. Press [F1].
+2. Press [F1]. (USB-Massensp)
 
 **On your machine:** <br>
 
-3. Open the file manager of your operating system and copy all [.g1m](#program_files) files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
+3. Open the file manager of your operating system and copy all [.g1m](#program_files) (for fx-9860 GIII) files or all [.g3m]() (fx-CG50) files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
 
 4. Eject device (usually D:). More info on calculator display.
 
@@ -77,7 +77,15 @@ Due to the complexety of the program I won't explain every detail in this README
 7. Press [MENU] as shown on the screen. <br>
 
 **Note**
-Installation is also possible via the 3-Pin cable from one calculator to another. Transfer is also possible between different [compatible](#compatibility) calculator generations.
+Installation is also possible via the 3-Pin cable betweeen calculators.
+
+| source calculator | target calculator |
+| ----------------- | ----------------- |
+|fx-9860 GIII | fx-9860 GIII | 
+| fx-9860 GII | fx-9860 GII |
+| fx-9860 GII | fx-9860 GIII |
+| fx-9860 GIII | fx-9860 GII |
+| fx-CG50 | fx-CG50 |
 
 ### via 3-Pin
 
