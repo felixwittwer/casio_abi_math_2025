@@ -68,6 +68,7 @@ ABI 2025
 │    │     ├── Verteilung
 │    │     ├── n ermitteln
 │    │     ├── k ermitteln
+│    │     ├── p für +- σ(x)
 │    │     ├── B(n,p,k)->N(y,o)
 │    │     └── Stichprobengröße
 │    ├── Normalverteilung
