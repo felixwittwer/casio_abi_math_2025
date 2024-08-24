@@ -35,9 +35,13 @@ Casio fx-CG50
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
 ### 2024.1.1
-- fix issue #12 in "Vierfeldertafel"
-- fix issue #15 ("Binomial" menu is referencing "Ebenen" menu)
-- fix issue #16 ("Statistik" menu incorectly labled as "Ebenen")
+- add probability for "höchstens eine Standardabweichung" (fix issue #14) 
+- "Binomial" menu is referencing "Ebenen" menu (fix issue #15)
+- "Statistik" menu incorectly labled as "Ebenen" (fix issue #16)
+- make "Vierfeldertafel" more logical (fix issue #18)
+- show input directly in "Vierfeldertafel" (fix issue #19)
+- add support for Casio fx-CG50 (fix issue #20)
+- minimize confusion when asked for probability input (fix issue #21)
 
 ### 2024.1.0
 - spliting the Program into 9 different files for better readability and to reduce confusion with variable names
@@ -104,13 +108,13 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABI 2025   | 2056 Bytes             | 58  Lines     |
 | ABIA1 25   | 3024 bytes             | 212 Lines     |
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
-| ABIG1 25   | 4088 Bytes             | 325 Lines     |
+| ABIG1 25   | 4248 Bytes             | 335 Lines     |
 | ABIG2 25   | 3344 Bytes             | 381 Lines     |
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
 | ABIG4 25   | 1012 Bytes             | 51  Lines     |
 | ABIG5 25   | 1716 Bytes             | 121 Lines     |
-| ABIS1 25   | 4744 Bytes             | 339 Lines     |
-| **Total**  | **23.344 Bytes**       | **1607 Lines**|
+| ABIS1 25   | 5736 Bytes             | 370 Lines     |
+| **Total**  | **24.496 Bytes**       | **1648 Lines**|
 
 </div>
 
