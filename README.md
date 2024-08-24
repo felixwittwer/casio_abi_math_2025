@@ -10,8 +10,6 @@ This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, vis
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
-<div id=compatibility>
-
 ## THANKS
 to **Charlotte Bäcker** for the original projekt and permission to reuse and further develop it
 
@@ -19,9 +17,15 @@ to **Felix Wittwer** for giving the orginial ABI 2017 program a new life
 
 ## CONTACT
 Felix Wittwer (felix.wittwer.mail@gmail.com)
+
+<div id=compatibility>
   
 ## Compatibility
-the programm is compatibale with Casio calculators of the fx-9860 GII and GIII Series
+Supported calculators:
+Casio fx-9860 GII
+Casio fx-9860 GII SD
+Casio fx-9860 GIII
+Casio fx-CG50
 
 </div>
 
