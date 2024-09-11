@@ -61,21 +61,22 @@ all changes made by Felix Wittwer
 
 
 ## Installation
-### fx-9860 GII
+### via USB
+#### fx-9860 GII
 1. [Download](https://edu.casio.com/dl/) and install the Casio FA-124 Programm
 
 Due to the complexety of the program I won't explain every detail in this README. For further information use the [official manual (German)](https://support.casio.com/storage/de/manual/pdf/DE/004/FA-124_DE.pdf).
 
-### fx-9860 GIII
-1. Connect Casio fx-9860 GIII to your Computer with the help of the USB cable.
+#### fx-9860 GIII and fx-CG50
+1. Connect Casio fx-9860 GIII of fx-CG50 to your Computer with the help of the USB cable.
 
 **On the Calculator:** <br>
 
-2. Press [F1].
+2. Press [F1]. (USB-Massensp)
 
 **On your machine:** <br>
 
-3. Open the file manager of your operating system and copy all [.g1m](#program_files) files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
+3. Open the file manager of your operating system and copy all [.g1m](#program_files) (for fx-9860 GIII) files or all [.g3m]() (fx-CG50) files into the shown device (usually D:) under D:/@MainMem/PROGRAM.
 
 4. Eject device (usually D:). More info on calculator display.
 
@@ -86,7 +87,37 @@ Due to the complexety of the program I won't explain every detail in this README
 7. Press [MENU] as shown on the screen. <br>
 
 **Note**
-Installation is also possible via the 3-Pin cable from one calculator to another. Transfer is also possible between different [compatible](#compatibility) calculator generations.
+Installation is also possible via the 3-Pin cable betweeen calculators.
+
+| transmiting calculator | reciving calculator |
+| ----------------- | ----------------- |
+|fx-9860 GIII | fx-9860 GIII | 
+| fx-9860 GII | fx-9860 GII |
+| fx-9860 GII | fx-9860 GIII |
+| fx-9860 GIII | fx-9860 GII |
+| fx-9860 GIII | fx-CG50 |
+| fx-CG50 | fx-CG50 |
+
+### via 3-Pin
+1. go into the LINK menu on both calculators [ALPHA] [E]
+2. make sure that "Kabeltyp" is **3pin**
+   
+   If not [F4] (CABL) + [F2] (3PIN)
+   
+| transmiting calculator | reciving calculator |
+| ----------------- | ----------------- |
+| [F1] (TRAN)| |
+|| [F2] (RECV) |
+| [F1] (MAIN)| |
+| [F1] (SEL)| |
+| Go down to "< PROGRAM >" and press [EXE]. | |
+| Select all files you want to transmit with arrows and [F1] (SEL) or press [F2] (ALL) to select all. | |
+| If you finished press [F6] (TRAN) to transmit the selected files. | |
+| If you get asked for confirmation press [F1] (Ja) | |
+| Press [EXIT] as shown on the screen.| |
+| | Press [EXE] as shown on the screen.|
+| | Press [EXIT] as shown on the screen.|
+| | [MENU] |
 
 ## How to use
 To use the Progam you have to execute the ABI 2025.g1m file by:
