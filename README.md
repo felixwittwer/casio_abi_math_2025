@@ -34,6 +34,12 @@ Casio fx-CG50
 #### naming convention 
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
+### 2024.1.3
+- add integral menu (fix issue #24) 
+
+### 2024.1.2
+- fix dimension errors in Analysis menu (fix issue #22)
+
 ### 2024.1.1
 - add probability for "höchstens eine Standardabweichung" (fix issue #14) 
 - "Binomial" menu is referencing "Ebenen" menu (fix issue #15)
@@ -139,13 +145,14 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABI 2025   | 2056 Bytes             | 58  Lines     |
 | ABIA1 25   | 3024 bytes             | 212 Lines     |
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
+| ABIA3 25   | 1892 Bytes             | 113 Lines     |
 | ABIG1 25   | 4248 Bytes             | 335 Lines     |
 | ABIG2 25   | 3344 Bytes             | 381 Lines     |
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
 | ABIG4 25   | 1012 Bytes             | 51  Lines     |
 | ABIG5 25   | 1716 Bytes             | 121 Lines     |
 | ABIS1 25   | 5740 Bytes             | 371 Lines     |
-| **Total**  | **24.500 Bytes**       | **1649 Lines**|
+| **Total**  | **26.392 Bytes**       | **1762 Lines**|
 
 </div>
 

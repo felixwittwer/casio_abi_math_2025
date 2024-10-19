@@ -18,6 +18,7 @@ ABI 2025
 │    │    ├── Zurück
 │    │    ├── Integral
 │    │    ├── Fläche zur X-Ach
+│    │    ├── Fläche zwi. 2Fnk (mit Überschneiden)
 │    │    └── Fläche zwi. 2Fnk
 │    ├── y=mx+n aus 2 Pkt
 │    ├── Neigungswinkel
