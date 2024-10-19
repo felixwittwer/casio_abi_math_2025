@@ -14,6 +14,11 @@ ABI 2025
 │    │    ├── Zurück
 │    │    ├── auf dem Graphen
 │    │    └── von außerhalb
+│    ├── Integral Fläche (ABIA3 25)
+│    │    ├── Zurück
+│    │    ├── Integral
+│    │    ├── Fläche zur X-Ach
+│    │    └── Fläche zwi. 2Fnk
 │    ├── y=mx+n aus 2 Pkt
 │    ├── Neigungswinkel
 │    ├── Bogenlänge
