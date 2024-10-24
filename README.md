@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2024.1.2-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2024.1.3-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
