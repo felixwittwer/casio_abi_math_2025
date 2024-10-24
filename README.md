@@ -63,5 +63,20 @@ All the other files are used by the program automaticaly and you are getting red
 
 For a detailed List/Map of the included functionality see [menu_structure](/menu_structure.txt)
 
+<div id=program_files> 
+  
+## Progam Files
+
+| Filename   | Filesize on Calculator | Lines of code |
+| ---------- | ---------------------- | ------------- |
+| ABI 2017   | 1396 Bytes             | 49  Lines     |
+| ABI A 17   | 2368 bytes             | 187 Lines     |
+| ABI G 17   | 5540 Bytes             | 491 Lines     |
+| ABI G'17   | 5324 Bytes             | 535 Lines     |
+| ABI S 17   | 4916 Bytes             | 377 Lines     |
+| **Total**  | **19544 Bytes**        | **1639 Lines**|
+
+</div>
+
 ## Diclaimer
 The links contained in this file allow you to leave this file and jump to other websites. I, Felix Wittwer, am not responsible for the content, links, changes or updates of these external websites. Use at your own risk!
