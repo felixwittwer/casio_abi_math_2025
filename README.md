@@ -92,6 +92,8 @@ Due to the complexety of the program I won't explain every detail in this README
 6. Press [EXIT] as shown on the screen. <br>
 7. Press [MENU] as shown on the screen. <br>
 
+When the program ist insalled go into the "Einstellungen" (Settings) menu and select "Zurücksetzen" (Reset) this initializes all settings so the program can use them. If you do not do this step some menus will not work!
+
 **Note**
 Installation is also possible via the 3-Pin cable betweeen calculators.
 
@@ -124,6 +126,9 @@ Installation is also possible via the 3-Pin cable betweeen calculators.
 | | Press [EXE] as shown on the screen.|
 | | Press [EXIT] as shown on the screen.|
 | | [MENU] |
+
+
+When the program ist insalled go into the "Einstellungen" (Settings) menu and select "Zurücksetzen" (Reset) this initializes all settings so the program can use them. If you do not do this step some menus will not work!
 
 ## How to use
 To use the Progam you have to execute the ABI 2025.g1m file by:
