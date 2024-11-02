@@ -21,10 +21,15 @@ ABI 2025
 │    │    ├── Fläche zwi. 2Fnk (mit Überschneiden)
 │    │    └── Fläche zwi. 2Fnk
 │    ├── y=mx+n aus 2 Pkt
+│    ├── Rotationsvolumen
+│    │    ├── Zurück
+│    │    ├── eine Funktione
+│    │    ├── V zwi. zwei Fkt.
+│    │    ├── zwei Funktionen
+│    │    └── h ges. V geg.
 │    ├── Neigungswinkel
 │    ├── Bogenlänge
-│    ├── d(Punkt, Graph)
-│    └── Rotationsvolumen
+│    └──d(Punkt, Graph)
 │
 ├── Geometrie (ABIG1 25)
 │    ├── Zurück
@@ -95,9 +100,14 @@ ABI 2025
 │    ├── Ausgabe
 │    ├── Grafik
 │    └── WICHTIG
-├── Informationen
+│
+├── Einstellungen
+│
 ├── Variablenmanager
 │    ├── Zurück
 │    ├── Speichern
 │    └── Wiederherstellen
+│
+├── Informationen
+│
 └── Beenden
