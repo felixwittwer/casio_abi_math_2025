@@ -34,6 +34,25 @@ Casio fx-CG50
 #### naming convention 
 year . main version (for major changes) . sub version (for small changes of bug fixes)
 
+In rare cases there are also Versions with year . main version. subversion DEV
+These are temporary development versions that are not quite ready for release
+
+### 2024.1.4
+- hide functions after use in program (fix issue #33)
+- find unknown height within Rotationsvolumen (fix issue #32)
+- Mathematial Error at sequence command (fix issue #31)
+- Add Rotationsvolumen for Objects cosisting of two functions (fix issue #30)
+- Add Rotationsvolumen calculation between two functions (fix issue #29)
+- Ebenengleichungen asks for to many inputs (fix issue #28)
+- Fix dimension error when there area intersection points (fix issue #27)
+- Add settings menu (fix issue #26)
+- find unknown parameters of function with integral menu (fix issue #25)
+- adding multiple Standardabweichungen von Erwartungswert (fix issue #23)
+
+### 2024.1.4DEV
+- Fix dimension error when there area intersection points (fix issue #27)
+- Add settings menu (fix issue #26)
+
 ### 2024.1.3
 - add integral menu (fix issue #24) 
 
@@ -147,17 +166,17 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 
 | Filename   | Filesize on Calculator | Lines of code |
 | ---------- | ---------------------- | ------------- |
-| ABI 2025   | 2056 Bytes             | 58  Lines     |
-| ABIA1 25   | 3024 bytes             | 212 Lines     |
+| ABI 2025   | 2420 Bytes             | 73  Lines     |
+| ABIA1 25   | 4040 bytes             | 278 Lines     |
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
-| ABIA3 25   | 1892 Bytes             | 113 Lines     |
+| ABIA3 25   | 2152 Bytes             | 121 Lines     |
 | ABIG1 25   | 4248 Bytes             | 335 Lines     |
 | ABIG2 25   | 3344 Bytes             | 381 Lines     |
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
-| ABIG4 25   | 1012 Bytes             | 51  Lines     |
-| ABIG5 25   | 1716 Bytes             | 121 Lines     |
-| ABIS1 25   | 5740 Bytes             | 371 Lines     |
-| **Total**  | **26.392 Bytes**       | **1762 Lines**|
+| ABIG4 25   | 1020 Bytes             | 51  Lines     |
+| ABIG5 25   | 1720 Bytes             | 122 Lines     |
+| ABIS1 25   | 6940 Bytes             | 409 Lines     |
+| **Total**  | **29.244 Bytes**       | **1890 Lines**|
 
 </div>
 
