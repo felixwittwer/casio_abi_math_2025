@@ -82,12 +82,18 @@ ABI 2025
 │    │     ├── p für +- σ(x)
 │    │     ├── B(n,p,k)->N(y,o)
 │    │     └── Stichprobengröße
-│    ├── Normalverteilung
+│    ├── Normalverteilung (ABIS2 25)
 │    │     ├── Zurück
 │    │     ├── Verteilung
 │    │     ├── y ermitteln
 │    │     ├── o ermitteln
-│    │     └── Grenze ermitteln
+│    │     ├── Grenze ermitteln
+│    │     └── Sigmaregeln
+│    ├── Bin. Norm. Graph
+│    │     ├── Zurück
+│    │     ├── n,p -> Bin. Graph
+│    │     ├── σ,μ -> Norm. Graph
+│    │     └── n,p -> Norm. Graph
 │    └── Signifikanztest
 │          ├── Zurück
 │          ├── Rechtsseitig

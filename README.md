@@ -37,6 +37,14 @@ year . main version (for major changes) . sub version (for small changes of bug 
 In rare cases there are also Versions with year . main version. subversion DEV
 These are temporary development versions that are not quite ready for release
 
+### 2024.1.5
+- replace SolvN with Solve when possible (fix issue #39)
+- binomial distribution calculation (fix issue #38)
+- Add sigmarules (fix issue #37)
+- normal distribution search for intervall (fix issue #36)
+- Math Error in binomial distribution menu (fix issue #35)
+- autoinsert of binomial and normal distributions into graphics menu (fix issue #34)
+
 ### 2024.1.4
 - hide functions after use in program (fix issue #33)
 - find unknown height within Rotationsvolumen (fix issue #32)
@@ -175,8 +183,9 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIG3 25   | 3232 Bytes             | 113 Lines     |
 | ABIG4 25   | 1020 Bytes             | 51  Lines     |
 | ABIG5 25   | 1720 Bytes             | 122 Lines     |
-| ABIS1 25   | 6940 Bytes             | 409 Lines     |
-| **Total**  | **29.244 Bytes**       | **1890 Lines**|
+| ABIS1 25   | 6580 Bytes             | 375 Lines     |
+| ABIS2 25   | 1752 Bytes             | 80  Lines     |
+| **Total**  | **30.636 Bytes**       | **1936 Lines**|
 
 </div>
 
