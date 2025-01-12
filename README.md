@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2024.1.5-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
@@ -36,6 +36,14 @@ year . main version (for major changes) . sub version (for small changes of bug 
 
 In rare cases there are also Versions with year . main version. subversion DEV
 These are temporary development versions that are not quite ready for release
+
+### 2025.1.0
+- allow area of triangle to be calculaed with two vectors (fix issue #45)
+- Redundancy of point to point to line conversion (fix issue #44)
+- Redundancy of triangle menu (fix issue #43)
+- increase number of digits in point to point result (fix issue #42)
+- add Panic Button (fix issue #41)
+- Normalverteilungsmenu is missing cls commands (fix issue #40)
 
 ### 2024.1.5
 - replace SolvN with Solve when possible (fix issue #39)
