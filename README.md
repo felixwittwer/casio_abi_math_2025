@@ -182,18 +182,18 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 
 | Filename   | Filesize on Calculator | Lines of code |
 | ---------- | ---------------------- | ------------- |
-| ABI 2025   | 2420 Bytes             | 73  Lines     |
-| ABIA1 25   | 4040 bytes             | 278 Lines     |
+| ABI 2025   | 3380 Bytes             | 96  Lines     |
+| ABIA1 25   | 4044 bytes             | 278 Lines     |
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
 | ABIA3 25   | 2152 Bytes             | 121 Lines     |
 | ABIG1 25   | 4248 Bytes             | 335 Lines     |
-| ABIG2 25   | 3344 Bytes             | 381 Lines     |
-| ABIG3 25   | 3232 Bytes             | 113 Lines     |
-| ABIG4 25   | 1020 Bytes             | 51  Lines     |
+| ABIG2 25   | 3352 Bytes             | 376 Lines     |
+| ABIG3 25   | 3620 Bytes             | 124 Lines     |
+| ABIG4 25   | 1084 Bytes             | 53  Lines     |
 | ABIG5 25   | 1720 Bytes             | 122 Lines     |
 | ABIS1 25   | 6580 Bytes             | 375 Lines     |
 | ABIS2 25   | 1752 Bytes             | 80  Lines     |
-| **Total**  | **30.636 Bytes**       | **1936 Lines**|
+| **Total**  | **32.060 Bytes**       | **1967 Lines**|
 
 </div>
 
