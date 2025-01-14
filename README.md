@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.0-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.1-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
@@ -36,6 +36,10 @@ year . main version (for major changes) . sub version (for small changes of bug 
 
 In rare cases there are also Versions with year . main version. subversion DEV
 These are temporary development versions that are not quite ready for release
+
+### 2025.1.1
+- add "Zurück" to Panic Button menu (fix issue #46)
+- add Info zu PaB Menü menu to explain the Panic Button menu and it's functionality
 
 ### 2025.1.0
 - allow area of triangle to be calculaed with two vectors (fix issue #45)
@@ -182,7 +186,7 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 
 | Filename   | Filesize on Calculator | Lines of code |
 | ---------- | ---------------------- | ------------- |
-| ABI 2025   | 3380 Bytes             | 96  Lines     |
+| ABI 2025   | 3964 Bytes             | 102 Lines     |
 | ABIA1 25   | 4044 bytes             | 278 Lines     |
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
 | ABIA3 25   | 2152 Bytes             | 121 Lines     |
@@ -193,7 +197,7 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIG5 25   | 1720 Bytes             | 122 Lines     |
 | ABIS1 25   | 6580 Bytes             | 375 Lines     |
 | ABIS2 25   | 1752 Bytes             | 80  Lines     |
-| **Total**  | **32.060 Bytes**       | **1967 Lines**|
+| **Total**  | **32.644 Bytes**       | **1973 Lines**|
 
 </div>
 

@@ -117,6 +117,7 @@ ABI 2025
 ├── Informationen
 │
 ├── Panic Button
+│    ├── Info zu PaB Mneü
 │    ├── moderat
 │    ├── alles löschen
 │    └── Graphen Preset
