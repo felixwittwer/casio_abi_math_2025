@@ -45,14 +45,13 @@ ABI 2025
 │    │    ├── Zurück
 │    │    ├── Vektor aus Pnkte
 │    │    ├── Punkt aus Vektor
+│    │    ├── zwei Vektoren
 │    │    ├── Vektorlänge
-│    │    ├── u°v $ uxv
 │    │    ├── Lineare Abhängigkeit
 │    │    │    ├── Zurück
 │    │    │    ├── x-y-Ebene
 │    │    │    └── x-y-z-Ebene
 │    │    ├── Einheitsvektor
-│    │    ├── zwei Vektoren
 │    │    └── Dreiecksfläche
 │    ├── Geraden (ABIG4 25)
 │    │    ├── Zurück
