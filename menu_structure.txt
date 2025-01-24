@@ -46,6 +46,7 @@ ABI 2025
 │    │    ├── Vektor aus Pnkte
 │    │    ├── Punkt aus Vektor
 │    │    ├── Vektorlänge
+│    │    ├── u°v $ uxv
 │    │    ├── Lineare Abhängigkeit
 │    │    │    ├── Zurück
 │    │    │    ├── x-y-Ebene
@@ -59,7 +60,8 @@ ABI 2025
 │    │    ├── Pnkte aus Gerade
 │    │    ├── Punktprobe (ABIG2 25)
 │    │    ├── geg. Parameter
-│    │    └── geg. Komponente
+│    │    ├── geg. Komponente
+│    │    └── d Stüzvekt. Pnkt
 │    ├── Ebenen (ABIG5 25)
 │    │    ├── Zurück
 │    │    └── Ebenengleichung
