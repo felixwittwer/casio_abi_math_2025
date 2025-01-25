@@ -86,8 +86,9 @@ ABI 2025
 │    ├── Normalverteilung (ABIS2 25)
 │    │     ├── Zurück
 │    │     ├── Verteilung
-│    │     ├── y ermitteln
-│    │     ├── o ermitteln
+│    │     ├── μ ermitteln
+│    │     ├── σ ermitteln
+│    │     ├── μ mit Φ berrechn
 │    │     ├── Grenze ermitteln
 │    │     └── Sigmaregeln
 │    ├── Bin. Norm. Graph

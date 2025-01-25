@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.1-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.2-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
@@ -36,6 +36,13 @@ year . main version (for major changes) . sub version (for small changes of bug 
 
 In rare cases there are also Versions with year . main version. subversion DEV
 These are temporary development versions that are not quite ready for release
+
+### 2025.1.2
+- add closest points of "windschiefe Geraden" (fix issue #51)
+- fix small graphical issue (fix issue #50)
+- add distance from point to "Stützvektor" menu (fix issue #49)
+- add Skalar- und Kreuzprodukt (fix issue #48)
+- add extensive menu for calculating standard deviation and expected value (fix issue #47)
 
 ### 2025.1.1
 - add "Zurück" to Panic Button menu (fix issue #46)
@@ -191,13 +198,13 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIA2 25   | 128  Bytes             | 7   Lines     |
 | ABIA3 25   | 2152 Bytes             | 121 Lines     |
 | ABIG1 25   | 4248 Bytes             | 335 Lines     |
-| ABIG2 25   | 3352 Bytes             | 376 Lines     |
+| ABIG2 25   | 4688 Bytes             | 421 Lines     |
 | ABIG3 25   | 3620 Bytes             | 124 Lines     |
-| ABIG4 25   | 1084 Bytes             | 53  Lines     |
+| ABIG4 25   | 1564 Bytes             | 70  Lines     |
 | ABIG5 25   | 1720 Bytes             | 122 Lines     |
 | ABIS1 25   | 6580 Bytes             | 375 Lines     |
-| ABIS2 25   | 1752 Bytes             | 80  Lines     |
-| **Total**  | **32.644 Bytes**       | **1973 Lines**|
+| ABIS2 25   | 2900 Bytes             | 126  Lines    |
+| **Total**  | **35.608 Bytes**       | **2081 Lines**|
 
 </div>
 
