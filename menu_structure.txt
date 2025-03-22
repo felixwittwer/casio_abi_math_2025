@@ -88,7 +88,7 @@ ABI 2025
 │    │     ├── Verteilung
 │    │     ├── μ ermitteln
 │    │     ├── σ ermitteln
-│    │     ├── μ mit Φ berrechn
+│    │     ├── μ,σ mit Φ berech
 │    │     ├── Grenze ermitteln
 │    │     └── Sigmaregeln
 │    ├── Bin. Norm. Graph

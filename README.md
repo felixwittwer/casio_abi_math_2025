@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.2-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
+[![Generic badge](https://img.shields.io/badge/newest_version-2025.1.3-<COLOR>.svg)](https://github.com/felixwittwer/casio_abi_math_2025/releases)
 [![Static Badge](https://img.shields.io/badge/project_from_students_at-Gymnasium_Dresden--Plauen-GDP?color=055d3d)](https://gdp.schule/)
 [![Static Badge](https://img.shields.io/badge/development_for-Abitur_2025-GDP?color=ff2000)]()
 
@@ -36,6 +36,12 @@ year . main version (for major changes) . sub version (for small changes of bug 
 
 In rare cases there are also Versions with year . main version. subversion DEV
 These are temporary development versions that are not quite ready for release
+
+### 2025.1.3
+- fix error inside μ mit Φ berrechn menu (fix issue #57)
+- add option for probability inside and outside borders (fix issue #56)
+- Annahmeberiech und Ablehnungsbereich bei rechtsseitigem Signifikanztest (fix issue #54)
+- screen isn't cleared and produces artifacts (fix issue #53)
 
 ### 2025.1.2
 - add closest points of "windschiefe Geraden" (fix issue #51)
@@ -202,9 +208,9 @@ For a detailed List/Map of the included functionality see [menu_structure](/menu
 | ABIG3 25   | 3620 Bytes             | 124 Lines     |
 | ABIG4 25   | 1564 Bytes             | 70  Lines     |
 | ABIG5 25   | 1720 Bytes             | 122 Lines     |
-| ABIS1 25   | 6580 Bytes             | 375 Lines     |
-| ABIS2 25   | 2900 Bytes             | 126  Lines    |
-| **Total**  | **35.608 Bytes**       | **2081 Lines**|
+| ABIS1 25   | 6600 Bytes             | 379 Lines     |
+| ABIS2 25   | 3140 Bytes             | 133  Lines    |
+| **Total**  | **35.848 Bytes**       | **2092 Lines**|
 
 </div>
 
